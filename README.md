@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/DikaArdnt/DikaArdnt/main/MyFile/JavaScript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/DikaArdnt/DikaArdnt/main/MyFile/NodeJs.png" alt="nodejs" width="40" height="40"/> </a> </p>
 
 - 🤝 I like working on Bot WhatsApp
 

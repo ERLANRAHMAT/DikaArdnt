@@ -1,6 +1,6 @@
 <h1 align="center">ディカ〜 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Dika Desu!!</h1>
 
-<p align='center'><a href="https://github.com/Cakhaho"><img height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqHSG3Fu5ktUDsSqN5yo9TtNk3erVBa023g&usqp=CAU"></a>&nbsp;&nbsp;</p>
+<p align='center'><a href="https://github.com/DikaArdnt"><img height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqHSG3Fu5ktUDsSqN5yo9TtNk3erVBa023g&usqp=CAU"></a>&nbsp;&nbsp;</p>
 
 <h1  align='center'> Hi👋</h1>
 
@@ -12,7 +12,7 @@
 
 <p align='center'>
 
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cakhaho)
+![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DikaArdnt)
 
 </P>
 
@@ -24,9 +24,9 @@ I am Beban
 
 now i want to make a bot:star:
 
-![Dika github stats](https://metrics.lecoq.io/Cakhaho)
+![Dika github stats](https://metrics.lecoq.io/DikaArdnt)
 
-![Profile Views](https://gpvc.arturio.dev/Cakhaho)
+![Profile Views](https://gpvc.arturio.dev/DikaArdnt)
 
 </p> 
 

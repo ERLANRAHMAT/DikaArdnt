@@ -14,7 +14,7 @@
 
 </p>
 
-<h3 align="left">Friends with me:</h3>
+<h3 align="left">Follow My Social Media  </h3>
 
 <p align="left">
 

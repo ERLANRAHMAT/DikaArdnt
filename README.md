@@ -1,37 +1,75 @@
-<h1 align="center">ディカ〜 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Dika Desu!!</h1>
+<p align="center">
 
-<p align='center'><a href="https://github.com/DikaArdnt"><img height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqHSG3Fu5ktUDsSqN5yo9TtNk3erVBa023g&usqp=CAU"></a>&nbsp;&nbsp;</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqHSG3Fu5ktUDsSqN5yo9TtNk3erVBa023g&usqp=CAU" width="240" height="240"/>
 
-<h1  align='center'> Hi👋</h1>
+</p>
 
-<p align='center'>This is my profile</p>
+<h1 align='center'> Yahooo 👋</h1>
 
-<p align='center'>I'm Dika (16 y.o)! </p>
-
-<p align='center'>I live in Blitar, Indonesia</p>
+<p align='center'>Hi There, I'm Dika</p>
 
 <p align='center'>
 
-![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=DikaArdnt)
+<a href="https://instagram.com/cak_haho"><img height="30" src="https://github.com/ArugaZ/ArugaZ/blob/main/images/instagram.svg?raw=true"></a>&nbsp;&nbsp;
 
-</P>
+</p>
 
-I'm currently learning:
+<h3 align="left">Friends with me:</h3>
 
-- Javascript
+<p align="left">
 
-I am Beban
+<a href="https://www.facebook.com/Haho.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Cak Haho." height="30" width="40" /></a>
 
-now i want to make a bot:star:
+<a href="https://instagram.com/cak_haho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cak_haho" height="30" width="40" /></a>
 
-![Dika github stats](https://metrics.lecoq.io/DikaArdnt)
+</p>
 
-![Profile Views](https://gpvc.arturio.dev/DikaArdnt)
+<h3 align="left">Languages and Tools:</h3>
 
-</p> 
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
- #sosial media
+- 🤝 If you interested to help me with my project [Cooming Soon](Cooming Soon)
 
-* [`WhatsApp Admin `](https://wa.me/6288292024190)
+- 📫 How to reach me **okeae2410@gmail.com**
 
-* [`Hoshi Bot `](https://wa.me/85298606412)
+- ⚡ Fun fact **Anime Is Fun**
+
+![https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

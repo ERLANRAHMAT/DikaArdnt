@@ -28,7 +28,7 @@
 
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-- 🤝 If you interested to help me with my project [Cooming Soon](Cooming Soon)
+- 🤝 I like working on Bot WhatsApp
 
 - 📫 How to reach me **okeae2410@gmail.com**
 

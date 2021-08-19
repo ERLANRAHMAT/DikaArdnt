@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/DikaArdnt/DikaArdnt/main/MyFile/JavaScript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/DikaArdnt/DikaArdnt/main/MyFile/NodeJs.png" alt="nodejs" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" alt="nodejs" width="40" height="40"/> </a> </p>
 
 - 🤝 I just copy paste
 
@@ -35,41 +35,3 @@
 - ⚡ My hobby is watching anime
 
 ![https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

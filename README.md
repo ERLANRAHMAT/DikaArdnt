@@ -1,7 +1,6 @@
 <p align="center">
 
-<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="240" height="240"/>
-
+<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align='center'>hello, this is a little about me</h1>
@@ -39,6 +38,6 @@
 
 ![https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
 
-- ⌨️ The project is underway
+## ⌨️ Is My Project
 * WhatsApp Bot Normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
 * WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)

@@ -21,7 +21,7 @@
 
 <a href="https://instagram.com/cak_haho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cak_haho" height="30" width="40" /></a>
 
-<a href="wa.me/6288292024190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Dika Ardnt." height="30" width="40" /></a>
+<a href="https://wa.me/6288292024190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Dika Ardnt." height="30" width="40" /></a>
 
 
 </p>

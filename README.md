@@ -1,10 +1,10 @@
 <p align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlqHSG3Fu5ktUDsSqN5yo9TtNk3erVBa023g&usqp=CAU" width="240" height="240"/>
+<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="240" height="240"/>
 
 </p>
 
-<h1 align='center'> Yahaloo 👋</h1>
+<h1 align='center'>hello, this is a little about me</h1>
 
 <p align='center'>Hi There, I'm Dika</p>
 
@@ -14,13 +14,16 @@
 
 </p>
 
-<h3 align="left">Follow My Social Media  </h3>
+<h3 align="left">My Social Media  </h3>
 
 <p align="left">
 
 <a href="https://www.facebook.com/Haho.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Cak Haho." height="30" width="40" /></a>
 
 <a href="https://instagram.com/cak_haho" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cak_haho" height="30" width="40" /></a>
+
+<a href="wa.me/6288292024190" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Dika Ardnt." height="30" width="40" /></a>
+
 
 </p>
 
@@ -35,3 +38,7 @@
 - ⚡ My hobby is watching anime
 
 ![https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e](https://github-readme-stats.vercel.app/api?username=DikaArdnt&hide=%5B%22issues%22%5D&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=11998e)
+
+- ⌨️ The project is underway
+* WhatsApp Bot Normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
+* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
